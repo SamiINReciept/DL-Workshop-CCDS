@@ -66,7 +66,7 @@ A file with command-line instructions for running PyTorch Lightning tasks effect
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/deep-learning-workshop.git
+   git clone https://github.com/SamiINReciept/deep-learning-workshop.git
    ```
 
 2. Navigate to the specific folders to explore notebooks, materials, or modified codes.
