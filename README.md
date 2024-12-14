@@ -13,11 +13,12 @@ Each day’s folder contains Colab notebook files with different deep learning t
 
 - **Image Classification with CNN:** Implementation of Convolutional Neural Networks for image classification.
 - **Image Classification with VGG16:** Transfer learning using the pre-trained VGG16 model for image classification.
+- **Emotion Recognition with LSTM:** Implementation of LSTM networks for emotion recognition tasks using:
+  - **1-hot encoding**
 
 #### **Day 2**
 
 - **Emotion Recognition with LSTM:** Implementation of LSTM networks for emotion recognition tasks using:
-  - **1-hot encoding**
   - **Word2Vec embedding**
 - **Fine-tuning BERT for Emotion Recognition:** Code to fine-tune a BERT model for emotion recognition tasks.
 
